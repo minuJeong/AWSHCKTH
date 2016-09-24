@@ -4,3 +4,5 @@ Temp
 Assembly-CSharp-Editor.csproj
 Assembly-CSharp.csproj
 AWSHCKTH.sln
+obj
+Build
